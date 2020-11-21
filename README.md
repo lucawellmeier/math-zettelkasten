@@ -6,9 +6,11 @@ knowledge database
 (prominently used, for example, by Niklas Luhmann), 
 specifically tailored to my needs as a mathematics student.
 
+The name is not final.
+
 **Features and roadmap:**
- - [ ] simple (Markdown + Tex)-based file format with rapid preview
- - [ ] powerful cross-referencing and dependency control inside the Zettelkasten
+ - [x] simple (Markdown + Tex)-based file format with rapid preview
+ - [ ] powerful cross-referencing inside the Zettelkasten
  - [ ] simple bibliography management
  - [ ] archiving in a database using ids and tags
- - [ ] (partial) output as templated webpage or LaTeX document using [pandoc]()
+ - [ ] (partial) output as templated webpage
